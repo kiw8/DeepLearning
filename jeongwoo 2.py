@@ -9,6 +9,10 @@ def init_weights(inputs):
 
 def cal(inputs, weights, bias):
     output = []
+    output = []
+    output = []
+    output = []
+    output = []
     return output
 
 
